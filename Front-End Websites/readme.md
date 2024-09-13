@@ -1,1 +1,1 @@
-## Websited using HTML,CSS and JAVASCRIPT
+# Websites using HTML,CSS and JAVASCRIPT
